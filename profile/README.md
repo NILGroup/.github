@@ -16,4 +16,4 @@ technologies can make information accessible to everyone and support learning.
 
 - Computational Narrative and Creativity
 - Language Technology for Accessibility
-- Interactive antd immersive media
+- Interactive and immersive media
